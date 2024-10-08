@@ -1,0 +1,3 @@
+python -m venv tutorial-env
+cd tutorial-env\Scripts\activate.bat
+py -m pip list

@@ -1,0 +1,5 @@
+pip install opencv-contrib-python
+pip install imutils
+pip install opencv-python
+python -m pip install pyqt6
+pip install numpy

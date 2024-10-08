@@ -42,6 +42,11 @@ Asegúrate de tener instalado Python 3.x. Este proyecto utiliza las siguientes b
 1. **Capturar Imágenes**: Ingresa un nombre y haz clic en "Capturar Imagen" para tomar fotos que se almacenarán en la carpeta `imagenes`.
 2. **Entrenar el Modelo**: Haz clic en "Entrenar Imagen" para entrenar el modelo de reconocimiento facial con las imágenes capturadas.
 3. **Probar el Reconocimiento**: Haz clic en "Probar Imagen" para verificar el reconocimiento facial con las imágenes almacenadas.
+4. **Ejecutar la Aplicación**: Usa el siguiente comando para iniciar la aplicación:
+
+   ```bash
+   python src/repository/main.py
+   ```
 
 ## Estructura del Proyecto
 
